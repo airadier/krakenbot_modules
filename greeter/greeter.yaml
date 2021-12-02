@@ -1,0 +1,6 @@
+keyword: greeter
+action_type: python
+class_module: greeter
+class: Greeter
+help: Kraken salutes you!
+usage: Say hi!
